@@ -8,9 +8,6 @@ dependencies:
   - certifi=2021.10.8
   - ld_impl_linux-64=2.35.1
   - libffi=3.3
-  - libgcc-ng=9.3.0
-  - libgomp=9.3.0
-  - libstdcxx-ng=9.3.0
   - ncurses=6.3
   - openssl=1.1.1n
   - pip=21.2.2
